@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @brendamoura1997
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#Hello World!
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=brendamoura1997&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+- 👋 Olá! Atulmente estou em busca de um estágio em T.I
+- 👀 Sou ativa em projetos relacionados à front-end web e front/back mobile Android
+- 🌱 Estou sempre aprendendo
+- 💞️ Fale comigo no Linkedin: https://www.linkedin.com/in/brenda-moura-295569219/
+- 📫 Ou me mande um email: brendamoura857@gmal.com
