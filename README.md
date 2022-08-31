@@ -1,4 +1,4 @@
-### Hello World!
+## Hello World!
 
 - 👋 Olá! Atualmente estou em busca de um estágio em T.I
 - 👀 Sou ativa em projetos relacionados à front-end web e front/back mobile Android
