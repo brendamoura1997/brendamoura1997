@@ -1,6 +1,6 @@
 ## Hello World!
 
-- 👋 Olá! Estou em busca de um estágio em T.I
+- 👋 Olá! Estou em busca de um emprego em T.I
 - 👀 Sou ativa em projetos relacionados à Web e Mobile (Android)
 - 🌱 Estou sempre aprendendo!
 - 👀 Veja meu portfólio: https://brendamoura1997.netlify.app/
